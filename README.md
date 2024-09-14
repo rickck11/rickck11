@@ -17,5 +17,6 @@ I'm a passionate Computer Engineer with a keen interest in Software Development,
 
 - Programming languages: C++, Java, Python, Javascript/Typescript;
 - Technologies: Spring Boot, NestJS, Front-end Frameworks, Databases (SQL/NoSQL).
+- Optimism code flow
 
 Feel free to [add me on Linkedin](https://www.linkedin.com/in/rickelmedias/)
